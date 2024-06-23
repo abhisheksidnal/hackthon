@@ -1,0 +1,226 @@
+/* Group 5841 */
+.back{
+    background: linear-gradient(97.82deg, #0003AA 14.08%, #5B0369 134.44%);
+    position: absolute;
+    width: 1250px;
+    height: 600px;
+    top: 60px;
+    gap: 0px;
+    border-radius: 50px 0px 0px 0px;
+    opacity: 0.06px;
+    
+}
+.nav{
+    /* Group 8015 */
+
+position: absolute;
+width: 800px;
+height: 48px;
+left: 400px;
+top: 5px;
+
+
+}
+.main{
+/* Group/Default */
+
+position: absolute;
+left: 680px;
+right: 14.27%;
+top: 6.7%;
+bottom: 76.67%;
+
+border-radius: 50px;
+
+}
+.main1{
+/* Building The Digital Universe */
+
+position: absolute;
+left: 12.00%;
+right: 42.47%;
+top: 10.49%;
+bottom: 84.18%;
+
+font-family: 'Cairo';
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 95px;
+/* or 131% */
+
+color: #FFFFFF;
+
+
+
+}
+.main2{
+    /* With every client we serve, we bring forth a deep passion for creative problem-solving and digital innovations- that's what we deliver. We’ve Great minds at work for the best technologies to make digital easy and impactful. */
+
+position: absolute;
+left: 12.0%;
+right: 49.95%;
+top: 55.95%;
+bottom: 75.79%;
+
+font-family: 'Cairo';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 40px;
+/* or 133% */
+
+color: #FFFFFF;
+
+
+}
+.a1{
+    
+position: absolute;
+width: 527px;
+height: 104px;
+left: 80px;
+top: 700px;
+
+font-family: 'Cairo';
+font-style: normal;
+font-weight: 500;
+font-size: 45px;
+line-height: 100%;
+color: #060606;
+
+
+}
+/*.a1image{
+ 
+
+position: absolute;
+width: 10px;
+height: 10px;
+left: 500px;
+top: 770px;
+
+
+
+
+}*/
+
+.a2{
+ /* Group 8213 */
+
+position: absolute;
+width: 450px;
+height: 118px;
+left: 670px;
+top: 700px;
+
+
+font-family: 'Cairo';
+font-style: normal;
+font-weight: 200;
+font-size: 20px;
+line-height: 120%;
+/* or 68px */
+
+}
+.a3{
+    /* We are passionate about helping businesses thrive in the digital landscape. Our team of experts is dedicated to providing cutting-edge digital marketing solutions tailored to your unique needs. With our proven strategies, we'll boost your online presence, engage your target audience, and drive real results. */
+
+position: absolute;
+left: 80px;
+right: 58.28%;
+top: 155.68%;
+bottom: 49.49%;
+
+font-family: 'Cairo';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 35px;
+/* or 159% */
+
+color: #060606;
+
+
+}
+.a4{
+    position: absolute;
+    width: 450px;
+    height: 168px;
+    left: 670px;
+    top: 780px;
+    
+    
+    font-family: 'Cairo';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 20px;
+    line-height: 120%;
+    
+}
+.a5{
+    position: absolute;
+    width: 450px;
+    height: 168px;
+    left: 670px;
+    top: 860px;
+    
+    
+    font-family: 'Cairo';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 20px;
+    line-height: 120%;
+    
+}
+.a6{
+    position: absolute;
+    width: 450px;
+    height: 168px;
+    left: 670px;
+    top: 940px;
+    
+    
+    font-family: 'Cairo';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 20px;
+    line-height: 120%;
+}
+.a7{
+position: absolute;
+left: 80px;
+right: 69.86%;
+top: 1050px;
+bottom: 35.57%;
+
+font-family: 'Cairo';
+font-style: normal;
+font-weight: 300;
+font-size: 40px;
+line-height: 50px;
+/* or 133% */
+
+color: #000000;
+
+}
+.a8, .a9, .a11{
+    /* Group 5712 */
+
+position: absolute;
+width: 479.44px;
+height: 154.06px;
+left: 80px;
+top: 1200px;
+
+
+}
+.a9{
+    left: 50%;
+    top: 1050px;
+}
+.a11{
+    top: 1300px;
+    width: 1200px;
+   
+}
